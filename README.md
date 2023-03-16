@@ -8,4 +8,4 @@
 darshanpawar101/darshanpawar101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/darshan010"><img src="https://api.daily.dev/devcards/d225c6e6278742409499a038cba05b5c.png?r=rlh" width="400" alt="Darshan Pawar's Dev Card"/></a>
+
